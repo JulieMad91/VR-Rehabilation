@@ -50,7 +50,7 @@ public class playerController : MonoBehaviour
     {
         if (Input.anyKey)
         {
-            Debug.Log(Input.inputString);
+            //Debug.Log(Input.inputString);
         }
     }
 }
